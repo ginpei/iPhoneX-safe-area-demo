@@ -4,7 +4,7 @@
 
 # Screenshots
 
-## Default
+## Default + `padding: 5px`
 
 ![Portrait](./doc/default-portrait.png)
 
