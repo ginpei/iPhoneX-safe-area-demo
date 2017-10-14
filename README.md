@@ -36,4 +36,4 @@ body {
 
 ![Portrait](./doc/safe-area-portrait.png)
 
-![Landscape](./doc/safe-area-portrait.png)
+![Landscape](./doc/safe-area-landscape.png)
