@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+		<title>Viewport Fit</title>
+		<style>
+body {
+	left: 0;
+	position: absolute;
+	top: 0;
+	background-color: tomato;
+	box-sizing: border-box;
+	height: 100%;
+	margin: 0;
+	min-height: 100%;
+	overflow: auto;
+	padding: 5px;
+	width: 100%;
+}
+#main {
+	background-color: skyblue;
+	min-height: 100%;
+	overflow: auto;
+}
+h1 {
+	text-align: center;
+}
+		</style>
+	</head>
+	<body>
+		<div id="main">
+			<h1>Viewport Fit</h1>
+			<p>Using <code>&lt;meta content="viewport-fit=cover"&gt;</code></p>
+		</div>
+	</body>
+</html>
