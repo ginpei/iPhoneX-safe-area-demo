@@ -4,6 +4,8 @@
 
 # Screenshots
 
+`<body>` is red, `<div>` under `<body>` is blue.
+
 ## Default + `padding: 5px`
 
 ![Portrait](./doc/default-portrait.png)
